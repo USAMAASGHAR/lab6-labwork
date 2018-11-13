@@ -2,7 +2,7 @@
 #include "Box.h"
 
 int main() {
-  int x;
+  int haha;
   Box b1();
   Box b2;
   b2.Setlength(1);
